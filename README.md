@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QuoteVerse - Inspiring Words for Every Mood</title>
+    <title>𝗐𝗂𝗌𝖾𝗋 𝖯𝗈𝖾𝗍𝗌 - Inspiring Words for Every Mood</title>
     <style>
         body {
             box-sizing: border-box;
